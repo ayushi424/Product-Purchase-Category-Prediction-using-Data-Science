@@ -24,3 +24,9 @@ Step 4: Data Training.
 Step 5: Model Creation.
 
 Step 6: Performance Analysis.
+
+### **Libraries used**
+- pandas
+- matplotlib
+- seaborn
+- sklearn for importing models and metric
